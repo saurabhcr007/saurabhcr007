@@ -12,11 +12,5 @@ I'm Currently Learning
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurabhcr007&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhcr007&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=saurabhcr007&icon=8&color=3)](https://visitcount.itsvg.in)
