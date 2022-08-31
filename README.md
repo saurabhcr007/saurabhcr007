@@ -15,7 +15,7 @@ Fun Fact "**The first programmer was the daughter of a mad poet**"</br>
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/saurabhcr007) 
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%23white.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Saurabhcr007/)
 [![GeekOfGeeks](https://img.shields.io/badge/GeekofGeeks-%23F5792A.svg?logo=#2F8D46&logoColor=080A13)](https://auth.geeksforgeeks.org/user/supersaurabh017/)
-[![Codechef](https://img.shields.io/badge/GeekofGeeks-%23e0e0e0.svg?logo=codechef&logoColor=080A13)](https://www.codechef.com/users/saurabh_cr007)
+[![Codechef](https://img.shields.io/badge/Codechef-%23e0e0e0.svg?logo=codechef&logoColor=080A13)](https://www.codechef.com/users/saurabh_cr007)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
