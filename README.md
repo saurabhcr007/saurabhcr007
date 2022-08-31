@@ -13,9 +13,13 @@ Fun Fact "**The first programmer was the daughter of a mad poet**"</br>
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Saurabh-Chaudhary-138) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Saurabh_cr_007) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19000874/saurabhcr007) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/saurabhcr007) 
+
+
+# 👨‍💻 Coding Profile:
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%23white.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Saurabhcr007/)
 [![GeekOfGeeks](https://img.shields.io/badge/GeekofGeeks-%23F5792A.svg?logo=#2F8D46&logoColor=080A13)](https://auth.geeksforgeeks.org/user/supersaurabh017/)
 [![Codechef](https://img.shields.io/badge/Codechef-%23e0e0e0.svg?logo=codechef&logoColor=080A13)](https://www.codechef.com/users/saurabh_cr007)
+[![Leetcode](https://img.shields.io/badge/leetcode-%23B93B27.svg?logo=leetcode&logoColor=white)](https://leetcode.com/saurabhCR007/)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
