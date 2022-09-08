@@ -69,4 +69,4 @@ Fun Fact "**The first programmer was the daughter of a mad poet**"</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhcr007&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saurabhcr007&icon=8&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=saurabhcr007&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
