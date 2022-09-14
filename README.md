@@ -2,7 +2,7 @@
 I'm Currently Working on forum Website</br>
 I'm Currently looking for help with Web 3.0</br>
 I'm Currently Learning Web Development</br>
-Ask Me About AR/VR, Game Development, java</br>
+Ask Me About AR/VR, Game Development,  Basic java</br>
 Fun Fact "**The first programmer was the daughter of a mad poet**"</br>
 
 ## 🌐 Socials:
