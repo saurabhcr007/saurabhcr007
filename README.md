@@ -17,7 +17,7 @@ Fun Fact "**The first programmer was the daughter of a mad poet**"</br>
 
 # 👨‍💻 Coding Profile:
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%23white.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Saurabhcr007/)
-[![GeekOfGeeks](https://img.shields.io/badge/GeekofGeeks-%23F5792A.svg?logo=#2F8D46&logoColor=080A13)](https://auth.geeksforgeeks.org/user/supersaurabh017/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeekofGeeks-%23F5792A.svg?logo=#2F8D46&logoColor=080A13)](https://auth.geeksforgeeks.org/user/supersaurabh017/)
 [![Codechef](https://img.shields.io/badge/Codechef-%23e0e0e0.svg?logo=codechef&logoColor=080A13)](https://www.codechef.com/users/saurabh_cr007)
 [![Leetcode](https://img.shields.io/badge/leetcode-%23B93B27.svg?logo=leetcode&logoColor=white)](https://leetcode.com/saurabhCR007/)
 
