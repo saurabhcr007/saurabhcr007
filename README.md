@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm Currently Working in Larsen and Toubro Technology Services </br>
-I'm Currently Working on Backend and Devops Development </br>
+I'm Currently Working on Devops </br>
 Ask Me About AR/VR, Game Development, backend development , Devops development</br>
 Fun Fact "**The first programmer was the daughter of a mad poet**"</br>
 
