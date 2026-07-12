@@ -90,10 +90,6 @@ Currently focused on:
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🚀 ServiceOps | Enterprise DevOps automation platform | Spring Boot • Docker • Kubernetes |
-| 📈 Stock Market Platform | Microservices + GraphQL architecture | Java • Kafka • PostgreSQL |
-| ⚖ AI Legal Assistant | RAG powered legal advisor | Spring AI • PGVector • OpenAI |
-| 📥 Open Download Manager | High-speed download manager | Spring Boot • React |
-| 👨‍💼 Employee Management | Enterprise CRUD application | Java • MySQL • AWS |
 
 ---
 
