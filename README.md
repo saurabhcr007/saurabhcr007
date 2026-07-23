@@ -2,31 +2,39 @@
 
 <!-- SEO: Saurabh Chaudhary | Cloud Engineer | DevOps Engineer | Platform Engineer | SRE | AWS | Terraform | Kubernetes | Docker | GitHub Actions | Linux | Prometheus | Grafana | Jenkins | ArgoCD | Cloud Native | Infrastructure as Code | LLMOps | Germany Master's -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Saurabh+Chaudhary;Cloud+%E2%98%81%EF%B8%8F+%7C+DevOps+%E2%9A%99%EF%B8%8F+%7C+Platform+Engineering;Kubernetes+%7C+Terraform+%7C+AWS+%7C+Linux;Building+Reliable%2C+Scalable+Infrastructure+%F0%9F%9A%80;IaC+%7C+CI%2FCD+%7C+Observability+%7C+Security;AI-Assisted+DevOps+%7C+LLMOps+Explorer" />
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<br/>
+<h3><code>saurabh@github ~ $ ./contributions.sh</code></h3>
 
-<img src="https://komarev.com/ghpvc/?username=saurabhcr007&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile view counter" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/saurabhcr007?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117" alt="GitHub followers" />
+<img src="./contrib-heatmap.svg" width="860" alt="Saurabh Chaudhary's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>saurabh@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./saurabh-ascii.svg" width="370" alt="Saurabh Chaudhary — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Saurabh Chaudhary — Cloud & DevOps Engineer | Linux | Kubernetes | AWS | Terraform" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<h3><code>saurabh@github ~ $ ./links.sh</code></h3>
+
+<p><b>Cloud Engineer · DevOps Engineer · Platform Engineer · SRE · Linux Enthusiast</b></p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-saurabhcr007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabhcr007)
+[![Gmail](https://img.shields.io/badge/Gmail-chaudhary.saurabh200117-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudhary.saurabh200117@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=saurabhcr007&label=Profile+Views&color=58A6FF&style=for-the-badge)](https://github.com/saurabhcr007)
+
+<br>
 
 </div>
-
----
-
-## 🧑‍💻 `saurabh@github:~$ whoami`
-
-```yaml
-Name       : Saurabh Chaudhary
-Role       : Cloud Engineer | DevOps Engineer | Platform Engineer | SRE
-Location   : India → Germany (Master's 🎓)
-Focus      : Cloud Native • Kubernetes • IaC • Observability • Security
-Philosophy : Automate everything. Measure everything. Break nothing.
-Status     : Open to Cloud / DevOps / SRE roles & collaborations
-```
-
-> 🚀 Passionate infrastructure engineer specializing in **Cloud Architecture, DevOps Automation, Container Orchestration, and Platform Engineering**.
-> I design and operate systems that are **scalable, observable, and secure** — built on Linux, powered by Kubernetes, managed by Terraform.
 
 ---
 
@@ -36,12 +44,11 @@ Status     : Open to Cloud / DevOps / SRE roles & collaborations
 # saurabh@github:~$ cat current-focus.yaml
 
 Learning:
-  - Advanced Kubernetes: CKA/CKAD exam prep
+  - Advanced Kubernetes: CKA exam prep
   - AWS Solutions Architect: Cloud-native patterns
-  - Terraform: Advanced module design & state management
-  - ArgoCD: GitOps workflows & application sync strategies
+  - Terraform: Module design & state management
+  - ArgoCD: GitOps workflows & application sync
   - Prometheus + Grafana: Custom alerting & dashboards
-  - LLMOps: Deploying & monitoring AI/ML pipelines on Kubernetes
 
 Building:
   - DevOps automation toolkit (Bash + Python)
@@ -128,15 +135,6 @@ Goal:
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-</p>
-
-### 🤖 AI / LLMOps
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
 </p>
 
 ### 🔧 Developer Tools
@@ -178,16 +176,6 @@ Goal:
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=saurabhcr007&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhcr007&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -237,33 +225,13 @@ Goal:
 
 ---
 
-## 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/saurabhcr007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="mailto:chaudhary.saurabh200117@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Add your LinkedIn URL"/>
-
-</p>
-
-> 💬 *Update the LinkedIn badge above with your actual profile URL once ready.*
-
----
-
 <div align="center">
 
 ```
   ██████╗██╗      ██████╗ ██╗   ██╗██████╗      ███╗   ██╗ █████╗ ████████╗██╗██╗   ██╗███████╗
  ██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗     ████╗  ██║██╔══██╗╚══██╔══╝██║██║   ██║██╔════╝
- ██║     ██║     ██║   ██║██║   ██║██║  ██║     ██╔██╗ ██║███████║   ██║   ██║██║   ██║█████╗  
- ██║     ██║     ██║   ██║██║   ██║██║  ██║     ██║╚██╗██║██╔══██║   ██║   ██║╚██╗ ██╔╝██╔══╝  
+ ██║     ██║     ██║   ██║██║   ██║██║  ██║     ██╔██╗ ██║███████║   ██║   ██║██║   ██║█████╗
+ ██║     ██║     ██║   ██║██║   ██║██║  ██║     ██║╚██╗██║██╔══██║   ██║   ██║╚██╗ ██╔╝██╔══╝
  ╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝     ██║ ╚████║██║  ██║   ██║   ██║ ╚████╔╝ ███████╗
   ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝      ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝  ╚══════╝
 ```
