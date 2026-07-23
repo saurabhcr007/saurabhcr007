@@ -49,14 +49,10 @@ Building:
   - Infrastructure-as-Code templates library
   - CI/CD pipeline blueprints with GitHub Actions & Jenkins
 
-Goal_2025:
-  - Contribute to 3+ open-source Cloud Native projects
-  - Achieve AWS SAA + Terraform Associate certifications
-  - Build production-grade K8s-based reference architecture
-
-Goal_2026:
-  - Master's in Computer Science / Cloud Computing — Germany 🇩🇪
-  - Land a Cloud/SRE role at a European tech company
+Goal:
+  - Master's in Computer Science / Cloud Computing — Germany 🇩🇪 (2026)
+  - CKA certification
+  - Contribute to CNCF open-source projects
 ```
 
 ---
@@ -89,8 +85,6 @@ Goal_2026:
 <p>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-<img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white" alt="Packer"/>
-<img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" alt="Vault"/>
 </p>
 
 ### 🐳 Containers & Orchestration
@@ -118,17 +112,14 @@ Goal_2026:
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
 <img src="https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki"/>
 <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Alertmanager"/>
-<img src="https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=white" alt="Jaeger"/>
 </p>
 
 ### 🔐 Security & Networking
 
 <p>
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" alt="Trivy"/>
-<img src="https://img.shields.io/badge/Falco-009BDE?style=for-the-badge&logo=falco&logoColor=white" alt="Falco"/>
-<img src="https://img.shields.io/badge/OPA-7D3F98?style=for-the-badge&logo=openpolicyagent&logoColor=white" alt="OPA"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="Istio"/>
+<img src="https://img.shields.io/badge/UFW-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="UFW"/>
 </p>
 
 ### 🗄️ Databases & Messaging
@@ -161,16 +152,16 @@ Goal_2026:
 
 ## 🚀 Featured Projects
 
-> Projects demonstrating real-world Cloud Native & DevOps engineering
+> 🔧 Hands-on DevOps & Cloud projects — infrastructure built, not just theorized
 
-| 🔧 Project | 📝 Description | 🛠 Stack | 🔗 |
-|---|---|---|---|
-| **k8s-platform-blueprint** | Production-grade Kubernetes platform with GitOps, RBAC, network policies, and full observability stack | K8s · Helm · ArgoCD · Prometheus · Grafana | [→ View](#) |
-| **terraform-aws-modules** | Reusable Terraform modules for VPC, EKS, RDS, IAM — opinionated, security-hardened | Terraform · AWS · GitHub Actions | [→ View](#) |
-| **ci-cd-pipeline-factory** | Parameterized GitHub Actions + Jenkins pipeline factory for containerized microservices | GitHub Actions · Jenkins · Docker · Trivy | [→ View](#) |
-| **llmops-k8s-operator** | Kubernetes operator for lifecycle management of LLM inference deployments with auto-scaling | Python · K8s Operator SDK · Prometheus · GPU | [→ View](#) |
+| 🔧 Project | 📝 Description | 🛠 Stack |
+|---|---|---|
+| **DevOps Automation Toolkit** | Bash + Python scripts for system setup, log rotation, health checks, and service monitoring | Bash · Python · Linux · Cron |
+| **AWS Infrastructure with Terraform** | Provisioning VPC, EC2, S3, and IAM roles using Terraform — reproducible and version-controlled | Terraform · AWS · GitHub Actions |
+| **Dockerized App Pipeline** | End-to-end CI/CD pipeline for a containerized application with automated image build and deploy | Docker · GitHub Actions · Linux |
+| **Prometheus + Grafana Monitoring Stack** | Local observability stack with custom dashboards and alerting rules for Linux system metrics | Prometheus · Grafana · Alertmanager |
 
-> 📌 **Pin these repositories** from your GitHub profile settings for maximum recruiter impact.
+> 📌 **Update these with your actual repo links** — then pin the top 6 from GitHub profile settings.
 
 ---
 
@@ -212,56 +203,15 @@ Goal_2026:
 
 ---
 
-## 🗺️ Learning Roadmap
+## 🎓 Certifications & Courses
 
-```text
-2024 Q4  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         ✅ Linux fundamentals (RHCSA-level)
-         ✅ Docker & container architecture
-         ✅ Git advanced workflows & GitOps
-         ✅ AWS core services (EC2, S3, VPC, IAM)
-         ✅ Basic Kubernetes (pods, deployments, services)
-
-2025 Q1  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         ✅ Terraform fundamentals & AWS provisioning
-         ✅ GitHub Actions CI/CD pipelines
-         🔄 Kubernetes advanced (RBAC, network policies)
-         🔄 Helm chart authoring
-         🔄 Prometheus + Grafana observability stack
-
-2025 Q2  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         📅 AWS Solutions Architect Associate (SAA-C03)
-         📅 Terraform Associate (TA-003)
-         📅 ArgoCD GitOps workflows
-         📅 Jenkins declarative pipelines
-         📅 Container security (Trivy, Falco, OPA)
-
-2025 Q3  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         📅 CKA (Certified Kubernetes Administrator)
-         📅 Service mesh (Istio/Linkerd)
-         📅 LLMOps on Kubernetes
-         📅 Open Source contribution campaign
-
-2025 Q4  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         📅 Germany University applications (TUM, KIT, TU Berlin)
-         📅 Platform Engineering deep-dive
-         📅 SRE practices (SLO/SLI/Error budget)
-
-2026     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         🎓 Master's in CS / Cloud Computing — Germany 🇩🇪
-         🚀 Cloud/SRE role at European tech company
-```
-
----
-
-## 🎓 Certifications
-
-| Certification | Provider | Status |
+| Certification / Course | Provider | Status |
 |---|---|---|
-| AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | 📅 In Progress |
-| HashiCorp Terraform Associate (TA-003) | HashiCorp | 📅 In Progress |
-| Certified Kubernetes Administrator (CKA) | CNCF | 📅 Planned 2025 |
-| Certified Kubernetes Application Developer (CKAD) | CNCF | 📅 Planned 2025 |
+| AWS Observability | Amazon Web Services | ✅ Completed |
+| Getting Started with DevOps on AWS | Amazon Web Services | ✅ Completed |
+| Introduction to Linux (LFS101) | Linux Foundation | ✅ Completed |
+| AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | 🔄 In Progress |
+| Certified Kubernetes Administrator (CKA) | CNCF | 📅 Planned |
 
 ---
 
@@ -291,23 +241,19 @@ Goal_2026:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
 <a href="https://github.com/saurabhcr007">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="mailto:chaudhary.saurabh200117@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://dev.to/saurabhcr007">
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Add your LinkedIn URL"/>
 
 </p>
+
+> 💬 *Update the LinkedIn badge above with your actual profile URL once ready.*
 
 ---
 
