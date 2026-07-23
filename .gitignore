@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Node.js (if any tooling is added)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+
+# OS artifacts
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Secrets and credentials (NEVER commit these)
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.yaml
+secrets.json
+credentials.json
+
+# GitHub Actions local runner
+.act/
+act.log
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Generated outputs (committed via CI/CD only)
+# dist/ is committed by snake workflow — do NOT add dist/ here
+metrics/*.svg.bak
