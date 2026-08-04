@@ -41,7 +41,6 @@ ROWS = [
     ("host",),
     ("kv", "Role", "Cloud Engineer · DevOps · Platform · SRE"),
     ("kv", "Focus", "Cloud Native, Kubernetes, IaC, Observability"),
-    ("kv", "Goal", "Master's in CS — Germany 🇩🇪 (2026)"),
     ("kv", "OS", "Linux (Ubuntu / Arch)"),
     ("kv", "Shell", "bash / zsh + tmux"),
     ("gap",),
